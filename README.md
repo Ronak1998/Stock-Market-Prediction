@@ -12,5 +12,3 @@ Focus on work related to Indian Semantics of Stock Market
 ## test-models
 Practise work on practise dataset to check the feasibility and usability of a model
 
-## important-doc-links.txt
-Links to documents on cloud (Google Drive)
